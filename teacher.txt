@@ -1,0 +1,5 @@
+张三	2010011102	male	ee	198000	prof	
+李四	2001011104	female	cs	256001	principal	
+王忠	2004052121	male	ev	765adr	dean	
+马怀	1999647962	female	ai	qu@171	associate_prof	
+齐云	2004188591	female	ee	yuqdha	dean

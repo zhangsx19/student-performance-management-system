@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\xuan\source\repos\consoleapplication1\consoleapplication1\teacher.h(45): warning C4715: “teacher::menu_print”: 不是所有的控件路径都返回值
+c:\users\xuan\source\repos\consoleapplication1\consoleapplication1\student.h(47): warning C4715: “student::menu_print”: 不是所有的控件路径都返回值
+c:\users\xuan\source\repos\consoleapplication1\consoleapplication1\ta.h(43): warning C4715: “TA::menu_print”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> C:\Users\xuan\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

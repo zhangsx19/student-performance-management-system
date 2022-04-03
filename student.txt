@@ -1,0 +1,5 @@
+赵飞	2018011202	male	ee	abc000	82	
+钱进	2017011125	male	ts	zsy001	70	
+王书	2019011021	female	ee	daiwdb	91	
+邹文	2016281194	male	ai	iwq125	65	
+马克	2019128481	male	cs	81274q	90
